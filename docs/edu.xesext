@@ -25,7 +25,7 @@
 		<float key="requested_skip_interval">
 			<alias mapping="EN" name="Nmuber of seconds skipped in a video"/>
 		</float>
-		<string key="mode">
+		<string key="type">
 			<alias mapping="EN" name="Naviagtional mode"/>
 		</string>
 	</event>                     
