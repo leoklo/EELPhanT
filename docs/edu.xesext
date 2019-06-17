@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xesextension name="Education" prefix="edu" uri="">
+	<!--
+		Explanation
+	-->
+	<event>
+		<string key="mode">
+			<alias mapping="EN" name="User mode"/>
+		</string>
+		<float key="current_time">
+			<alias mapping="EN" name="Current position in a video"/>
+		</float>
+		<float key="previous_time">
+			<alias mapping="EN" name="Previous position in a video"/>
+		</float>
+		<string key="language">
+			<alias mapping="EN" name="Video transcript language"/>
+		</string>
+		<float key="new_speed">
+			<alias mapping="EN" name="Current video speed"/>
+		</float>
+		<float key="old_speed">
+			<alias mapping="EN" name="Current video speed"/>
+		</float>
+		<float key="requested_skip_interval">
+			<alias mapping="EN" name="Nmuber of seconds skipped in a video"/>
+		</float>
+		<string key="mode">
+			<alias mapping="EN" name="Naviagtional mode"/>
+		</string>
+	</event>                     
+</xesextension>
