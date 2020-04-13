@@ -28,5 +28,8 @@
 		<string key="type">
 			<alias mapping="EN" name="Naviagtional mode"/>
 		</string>
+		<float key="grade">
+			<alias mapping="EN" name="Grade"/>
+		</float>
 	</event>                     
 </xesextension>
