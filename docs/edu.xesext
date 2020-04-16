@@ -31,5 +31,8 @@
 		<float key="grade">
 			<alias mapping="EN" name="Grade"/>
 		</float>
+		<float key="score">
+			<alias mapping="EN" name="Score"/>
+		</float>
 	</event>                     
 </xesextension>
